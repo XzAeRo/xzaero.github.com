@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Testing de Octopress]]></title>
   <link href="http://XzAeRo.github.com/atom.xml" rel="self"/>
   <link href="http://XzAeRo.github.com/"/>
-  <updated>2012-11-30T01:52:23-03:00</updated>
+  <updated>2012-11-30T02:09:10-03:00</updated>
   <id>http://XzAeRo.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Victor Gonzalez]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
