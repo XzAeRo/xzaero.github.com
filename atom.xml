@@ -4,7 +4,7 @@
   <title><![CDATA[Testing de Octopress]]></title>
   <link href="http://XzAeRo.github.com/atom.xml" rel="self"/>
   <link href="http://XzAeRo.github.com/"/>
-  <updated>2013-04-15T17:43:25-03:00</updated>
+  <updated>2013-04-15T17:52:34-03:00</updated>
   <id>http://XzAeRo.github.com/</id>
   <author>
     <name><![CDATA[Victor Gonzalez]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[update plz]]></title>
+    <link href="http://XzAeRo.github.com/blog/2013/04/15/update-plz/"/>
+    <updated>2013-04-15T17:52:00-03:00</updated>
+    <id>http://XzAeRo.github.com/blog/2013/04/15/update-plz</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[test2]]></title>
