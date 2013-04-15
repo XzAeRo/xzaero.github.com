@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[CSRG]]></title>
-  <link href="http://XzAeRo.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: news | CSRG]]></title>
+  <link href="http://XzAeRo.github.com/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://XzAeRo.github.com/"/>
   <updated>2013-04-15T20:20:15-03:00</updated>
   <id>http://XzAeRo.github.com/</id>
@@ -30,11 +30,11 @@ Also this will be the official website for news and all CSRG relative informatio
 <li>Job Opportunities</li>
 <li>Members</li>
 <li>Talks</li>
-<li>And much more&#8230;</li>
+<li>And much more...</li>
 </ul>
 
 
-<p>So&#8230; we hope to see you around here!</p>
+<p>So... we hope to see you around here!</p>
 ]]></content>
   </entry>
   
